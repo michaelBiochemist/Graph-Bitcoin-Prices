@@ -34,6 +34,8 @@ def get_line_of_best_fit(a, currency):
 	minima = None
 	if currency in minima_ranges.keys():
 		for crange in minima_ranges[currency]:
+
+			# c = dataframe a, filtered for values that fall within the ranges for that currency.
 		    c = a[(a['time_low'] > crange[0]) & (a['time_low'] < crange[1])]
 		    min_open = min(c['open'])
 		    d = c[c['open'] == min_open]
@@ -44,30 +46,44 @@ def get_line_of_best_fit(a, currency):
 		minima['log_low'] = list(map(math.log10,minima['low']))
 		ndates = mdates.date2num(minima['time_low'])
 		z = np.polyfit(ndates,minima['log_low'],1)
-		p0 = np.poly1d(z)
+		best_fit = np.poly1d(z)
 	else:
 		z = np.polyfit(mdates.date2num(a['time_low']),a['log_low'],1)	
-		p0 = np.poly1d(z)
+		best_fit = np.poly1d(z)
+	return best_fit
 
-#plt.plot(a['time_low'],p0(mdates.date2num(a['time_low'])),'xkcd:gold',a['time_low'],log_low)
-a['best_fit'] = p0(mdates.date2num(a['time_low']))
+def plot_currency_prices(a, currency, best_fit):
+	best_fit = get_line_of_best_fit(a, currency)
+	a['best_fit'] = best_fit(mdates.date2num(a['time_low']))
+	
+	# Only include the line of best fit if that currency has minima ranges, as all the other "lines" of best fit, drastically suck.
+	if currency in minima_ranges.keys():
+		q = a.plot(x='time_low',y=['log_low','best_fit'])
+	else:
+		q = a.plot(x='time_low',y='log_low')
+	q.set_title('Logarithmic price vs Time')
+	q.set(xlabel='Date', ylabel='Log10 of price in $, so that 3=$1000 and 4=$10,000')
+	plt.show()
 
-if currency in minima_ranges.keys():
-	q = a.plot(x='time_low',y=['log_low','best_fit'])
-else:
-	q = a.plot(x='time_low',y='log_low')
-q.set_title('Logarithmic price vs Time')
-q.set(xlabel='Date', ylabel='Log10 of price in $, so that 3=$1000 and 4=$10,000')
+# Predicts price given a target date as STRING, and in the format 'YYYY-MM-DD' or '2021-12-25'
+# Returns the price in dollars (not a logarithm this time!
+def predict_price(target_date, best_fit):
+	testy = mdates.date2num(datetime.strptime(target_date,'%Y-%M-%d'))
+	print(math.pow(10,best_fit(testy)))
 
 
-testy = mdates.date2num(datetime.strptime('2021-12-01','%Y-%M-%d'))
-print(math.pow(10,p0(testy)))
-
-plt.show()
-
+# This now expects a file in the name format of <currency>_<date in yyyy-mm-dd format>. This name scheme is provided by the other script for grabbing data. 
+# It expects that file name as it's argument when you call the script. Also, it only accepts .csv file. 
 if __name__ == '__main__':
 	file_name = sys.argv[1]
 	currency = file_name.split('_')[0]
+	data_frame = prepare_dataframe(file_name)
+	best_fit = get_line_of_best_fit(data_frame, currency)
+	plot_currency_prices(data_frame, currency, best_fit)
+	
+	print('And the expected price for '+currency+' in 2021-11-11 will be:')
+	print(predict_price('2021-11-11',best_fit))
+	print('Yayyyyyy!')
 
 
 
