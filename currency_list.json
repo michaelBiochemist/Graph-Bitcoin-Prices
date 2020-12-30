@@ -1,0 +1,2212 @@
+[
+    {
+        "circulating_supply": 18585856,
+        "id": 1,
+        "last_updated": "2020-12-30T23:19:02.000Z",
+        "max_supply": 21000000,
+        "name": "Bitcoin",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:02.000Z",
+                "market_cap": 533978324709.4083,
+                "percent_change_1h": -0.24560561,
+                "percent_change_24h": 6.26520544,
+                "percent_change_7d": 24.770522,
+                "price": 28730.35951152362,
+                "volume_24h": 51225037382.73667
+            }
+        },
+        "rank": 1,
+        "slug": "bitcoin",
+        "symbol": "BTC",
+        "total_supply": 18585856
+    },
+    {
+        "circulating_supply": 114050582.874,
+        "id": 1027,
+        "last_updated": "2020-12-30T23:19:02.000Z",
+        "max_supply": null,
+        "name": "Ethereum",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:02.000Z",
+                "market_cap": 85180285014.45715,
+                "percent_change_1h": -0.97417698,
+                "percent_change_24h": 2.88956545,
+                "percent_change_7d": 27.47941777,
+                "price": 746.8640919491138,
+                "volume_24h": 17195548201.42532
+            }
+        },
+        "rank": 2,
+        "slug": "ethereum",
+        "symbol": "ETH",
+        "total_supply": 114050582.874
+    },
+    {
+        "circulating_supply": 20888059476.36833,
+        "id": 825,
+        "last_updated": "2020-12-30T23:19:08.000Z",
+        "max_supply": null,
+        "name": "Tether",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:08.000Z",
+                "market_cap": 20894785075.898415,
+                "percent_change_1h": 0.01640323,
+                "percent_change_24h": 0.14199526,
+                "percent_change_7d": 0.0984895,
+                "price": 1.0003219829749,
+                "volume_24h": 72884064072.21004
+            }
+        },
+        "rank": 3,
+        "slug": "tether",
+        "symbol": "USDT",
+        "total_supply": 21483323925.552525
+    },
+    {
+        "circulating_supply": 45404028640,
+        "id": 52,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": 100000000000,
+        "name": "XRP",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 9585144482.974167,
+                "percent_change_1h": 1.87648143,
+                "percent_change_24h": -5.08488894,
+                "percent_change_7d": -9.74611435,
+                "price": 0.21110779748143,
+                "volume_24h": 9005150362.114643
+            }
+        },
+        "rank": 4,
+        "slug": "xrp",
+        "symbol": "XRP",
+        "total_supply": 99990831162
+    },
+    {
+        "circulating_supply": 66205067.91134237,
+        "id": 2,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": 84000000,
+        "name": "Litecoin",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 8431803643.285129,
+                "percent_change_1h": -0.49325673,
+                "percent_change_24h": 0.7195454,
+                "percent_change_7d": 27.2848939,
+                "price": 127.35888519254244,
+                "volume_24h": 8105742933.12571
+            }
+        },
+        "rank": 5,
+        "slug": "litecoin",
+        "symbol": "LTC",
+        "total_supply": 66205067.91134237
+    },
+    {
+        "circulating_supply": 18600862.5,
+        "id": 1831,
+        "last_updated": "2020-12-30T23:19:08.000Z",
+        "max_supply": 21000000,
+        "name": "Bitcoin Cash",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:08.000Z",
+                "market_cap": 6598706001.13274,
+                "percent_change_1h": -0.49995712,
+                "percent_change_24h": 1.65688181,
+                "percent_change_7d": 28.58610295,
+                "price": 354.7526896203195,
+                "volume_24h": 5000642265.151398
+            }
+        },
+        "rank": 6,
+        "slug": "bitcoin-cash",
+        "symbol": "BCH",
+        "total_supply": 18600862.5
+    },
+    {
+        "circulating_supply": 894941668.7053224,
+        "id": 6636,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Polkadot",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 6429905053.4659195,
+                "percent_change_1h": -2.14884708,
+                "percent_change_24h": -1.33087966,
+                "percent_change_7d": 49.76374719,
+                "price": 7.18471971784241,
+                "volume_24h": 2079522176.8898752
+            }
+        },
+        "rank": 7,
+        "slug": "polkadot-new",
+        "symbol": "DOT",
+        "total_supply": 1028968835.8186308
+    },
+    {
+        "circulating_supply": 31112484646,
+        "id": 2010,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": 45000000000,
+        "name": "Cardano",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 5687564576.449621,
+                "percent_change_1h": -0.40357795,
+                "percent_change_24h": -1.94248101,
+                "percent_change_7d": 36.44937345,
+                "price": 0.18280650488584,
+                "volume_24h": 1886502218.9893384
+            }
+        },
+        "rank": 8,
+        "slug": "cardano",
+        "symbol": "ADA",
+        "total_supply": 45000000000
+    },
+    {
+        "circulating_supply": 144406560.9,
+        "id": 1839,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": 176406561,
+        "name": "Binance Coin",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 5458647088.277381,
+                "percent_change_1h": -0.1167931,
+                "percent_change_24h": -0.66987231,
+                "percent_change_7d": 22.33504308,
+                "price": 37.80054766387959,
+                "volume_24h": 501819028.4165866
+            }
+        },
+        "rank": 9,
+        "slug": "binance-coin",
+        "symbol": "BNB",
+        "total_supply": 176406560.9
+    },
+    {
+        "circulating_supply": 398509556.4344445,
+        "id": 1975,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "Chainlink",
+        "noLazyLoad": true,
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 4529043497.16933,
+                "percent_change_1h": 0.23062383,
+                "percent_change_24h": -1.28517398,
+                "percent_change_7d": 13.12906885,
+                "price": 11.36495580605823,
+                "volume_24h": 1507726198.1779277
+            }
+        },
+        "rank": 10,
+        "slug": "chainlink",
+        "symbol": "LINK",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 3680404430.686767,
+        "id": 3408,
+        "last_updated": "2020-12-30T23:20:07.000Z",
+        "max_supply": null,
+        "name": "USD Coin",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:07.000Z",
+                "market_cap": 3681115326.7324753,
+                "percent_change_1h": 0.0091048,
+                "percent_change_24h": 0.01396069,
+                "percent_change_7d": 0.02435987,
+                "price": 1.0001931570454,
+                "volume_24h": 1169938295.3998847
+            }
+        },
+        "rank": 11,
+        "slug": "usd-coin",
+        "symbol": "USDC",
+        "total_supply": 3699817353.007523
+    },
+    {
+        "circulating_supply": 115710.93990667,
+        "id": 3717,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": 21000000,
+        "name": "Wrapped Bitcoin",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 3317565979.3991666,
+                "percent_change_1h": -0.32040151,
+                "percent_change_24h": 6.15753699,
+                "percent_change_7d": 25.19245267,
+                "price": 28671.152287545545,
+                "volume_24h": 120765295.80368015
+            }
+        },
+        "rank": 12,
+        "slug": "wrapped-bitcoin",
+        "symbol": "WBTC",
+        "total_supply": 115710.93990667
+    },
+    {
+        "circulating_supply": 18611832.89423905,
+        "id": 3602,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": 21000000,
+        "name": "Bitcoin SV",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 3100962384.945871,
+                "percent_change_1h": -0.66523351,
+                "percent_change_24h": 2.62498003,
+                "percent_change_7d": 6.77304677,
+                "price": 166.6124127895924,
+                "volume_24h": 531492600.66346
+            }
+        },
+        "rank": 13,
+        "slug": "bitcoin-sv",
+        "symbol": "BSV",
+        "total_supply": 18611832.89423905
+    },
+    {
+        "circulating_supply": 21905716144.197716,
+        "id": 512,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "Stellar",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 2873023272.611352,
+                "percent_change_1h": -1.07537879,
+                "percent_change_24h": -3.92090812,
+                "percent_change_7d": 8.59074908,
+                "price": 0.1311540446201,
+                "volume_24h": 560409617.6376833
+            }
+        },
+        "rank": 14,
+        "slug": "stellar",
+        "symbol": "XLM",
+        "total_supply": 50001803573.87172
+    },
+    {
+        "circulating_supply": 17800091.14295564,
+        "id": 328,
+        "last_updated": "2020-12-30T23:20:05.000Z",
+        "max_supply": null,
+        "name": "Monero",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:05.000Z",
+                "market_cap": 2837476945.087717,
+                "percent_change_1h": -0.22506487,
+                "percent_change_24h": -2.21400222,
+                "percent_change_7d": 4.22870475,
+                "price": 159.40800090850348,
+                "volume_24h": 1315235999.8250637
+            }
+        },
+        "rank": 15,
+        "slug": "monero",
+        "symbol": "XMR",
+        "total_supply": 17800091.14295564
+    },
+    {
+        "circulating_supply": 939056684.875,
+        "id": 1765,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "EOS",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 2443814618.7183766,
+                "percent_change_1h": -0.21653562,
+                "percent_change_24h": -0.84959035,
+                "percent_change_7d": 5.57255728,
+                "price": 2.60241437825841,
+                "volume_24h": 2557091155.2585564
+            }
+        },
+        "rank": 16,
+        "slug": "eos",
+        "symbol": "EOS",
+        "total_supply": 1025756696.1136
+    },
+    {
+        "circulating_supply": 71659657369.49,
+        "id": 1958,
+        "last_updated": "2020-12-30T23:19:08.000Z",
+        "max_supply": null,
+        "name": "TRON",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:08.000Z",
+                "market_cap": 1923205710.2947392,
+                "percent_change_1h": -0.54402214,
+                "percent_change_24h": -2.40571663,
+                "percent_change_7d": 5.24778125,
+                "price": 0.02683805338865,
+                "volume_24h": 1106398059.516992
+            }
+        },
+        "rank": 17,
+        "slug": "tron",
+        "symbol": "TRX",
+        "total_supply": 100850743811.66246
+    },
+    {
+        "circulating_supply": 8999999999,
+        "id": 873,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "NEM",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 1806751135.58746,
+                "percent_change_1h": -6.28199399,
+                "percent_change_24h": -7.62751398,
+                "percent_change_7d": -5.76280395,
+                "price": 0.20075012619869,
+                "volume_24h": 97987293.21281806
+            }
+        },
+        "rank": 18,
+        "slug": "nem",
+        "symbol": "XEM",
+        "total_supply": 8999999999
+    },
+    {
+        "circulating_supply": 1000000000,
+        "id": 2416,
+        "last_updated": "2020-12-30T23:20:06.000Z",
+        "max_supply": null,
+        "name": "THETA",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:06.000Z",
+                "market_cap": 1595358117.1051102,
+                "percent_change_1h": -1.58767552,
+                "percent_change_24h": 11.71748791,
+                "percent_change_7d": 53.74853439,
+                "price": 1.59535811710511,
+                "volume_24h": 97333023.30097656
+            }
+        },
+        "rank": 19,
+        "slug": "theta",
+        "symbol": "THETA",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 755138968.677556,
+        "id": 2011,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "Tezos",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 1502874700.1892562,
+                "percent_change_1h": -0.46664201,
+                "percent_change_24h": -2.23198,
+                "percent_change_7d": 6.35191151,
+                "price": 1.99019619239248,
+                "volume_24h": 172274029.4094736
+            }
+        },
+        "rank": 20,
+        "slug": "tezos",
+        "symbol": "XTZ",
+        "total_supply": 755138968.677556
+    },
+    {
+        "circulating_supply": 999498892.9,
+        "id": 3957,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "UNUS SED LEO",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 1353197615.5740838,
+                "percent_change_1h": 0.05301831,
+                "percent_change_24h": -0.25281234,
+                "percent_change_7d": -0.59131944,
+                "price": 1.3538760524765,
+                "volume_24h": 14899581.78719849
+            }
+        },
+        "rank": 21,
+        "slug": "unus-sed-leo",
+        "symbol": "LEO",
+        "total_supply": 999498892.9
+    },
+    {
+        "circulating_supply": 238863519.826,
+        "id": 2700,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Celsius",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 1337951537.4105153,
+                "percent_change_1h": -0.96218183,
+                "percent_change_24h": 7.2346309,
+                "percent_change_7d": 76.70683932,
+                "price": 5.60132220434977,
+                "volume_24h": 30446862.28931755
+            }
+        },
+        "rank": 22,
+        "slug": "celsius",
+        "symbol": "CEL",
+        "total_supply": 695658160.967
+    },
+    {
+        "circulating_supply": 22439269405.05937,
+        "id": 3635,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "Crypto.com Coin",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 1321466842.9625432,
+                "percent_change_1h": -0.17436787,
+                "percent_change_24h": 1.74479452,
+                "percent_change_7d": 5.52324808,
+                "price": 0.05889081409507,
+                "volume_24h": 45623616.17647031
+            }
+        },
+        "rank": 23,
+        "slug": "crypto-com-coin",
+        "symbol": "CRO",
+        "total_supply": 100000000000
+    },
+    {
+        "circulating_supply": 64315576989,
+        "id": 3077,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "VeChain",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 1279711288.5548372,
+                "percent_change_1h": 0.19791641,
+                "percent_change_24h": -5.5772901,
+                "percent_change_7d": 51.5211281,
+                "price": 0.0198973770969,
+                "volume_24h": 265976348.18055415
+            }
+        },
+        "rank": 24,
+        "slug": "vechain",
+        "symbol": "VET",
+        "total_supply": 86712634466
+    },
+    {
+        "circulating_supply": 1150786299.8606668,
+        "id": 4943,
+        "last_updated": "2020-12-30T23:19:08.000Z",
+        "max_supply": null,
+        "name": "Dai",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:08.000Z",
+                "market_cap": 1154432360.7936344,
+                "percent_change_1h": -0.00304075,
+                "percent_change_24h": 0.0115327,
+                "percent_change_7d": 0.11132645,
+                "price": 1.00316832146282,
+                "volume_24h": 303831276.16547066
+            }
+        },
+        "rank": 25,
+        "slug": "multi-collateral-dai",
+        "symbol": "DAI",
+        "total_supply": 1150786325.680812
+    },
+    {
+        "circulating_supply": 208045944.583786,
+        "id": 3794,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Cosmos",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 1125142198.0205517,
+                "percent_change_1h": -0.82544949,
+                "percent_change_24h": -1.18932511,
+                "percent_change_7d": 20.47351153,
+                "price": 5.40814289974023,
+                "volume_24h": 410269795.7627429
+            }
+        },
+        "rank": 26,
+        "slug": "cosmos",
+        "symbol": "ATOM",
+        "total_supply": 265830547.583786
+    },
+    {
+        "circulating_supply": 268397384.9537704,
+        "id": 7083,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "Uniswap",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 1092349913.1897094,
+                "percent_change_1h": -2.19473137,
+                "percent_change_24h": 13.60260728,
+                "percent_change_7d": 23.82434781,
+                "price": 4.06989775022532,
+                "volume_24h": 755406951.8322865
+            }
+        },
+        "rank": 27,
+        "slug": "uniswap",
+        "symbol": "UNI",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 70538831,
+        "id": 1376,
+        "last_updated": "2020-12-30T23:20:07.000Z",
+        "max_supply": 100000000,
+        "name": "Neo",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:07.000Z",
+                "market_cap": 1038139095.0804718,
+                "percent_change_1h": 0.10555757,
+                "percent_change_24h": -1.57780965,
+                "percent_change_7d": 14.06441247,
+                "price": 14.71727104579422,
+                "volume_24h": 366993661.29299486
+            }
+        },
+        "rank": 28,
+        "slug": "neo",
+        "symbol": "NEO",
+        "total_supply": 100000000
+    },
+    {
+        "circulating_supply": 9896515.65841415,
+        "id": 131,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": 18900000,
+        "name": "Dash",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 1003111565.8395151,
+                "percent_change_1h": -0.05714836,
+                "percent_change_24h": -1.72142151,
+                "percent_change_7d": 11.43690335,
+                "price": 101.36007464270077,
+                "volume_24h": 620081123.5122293
+            }
+        },
+        "rank": 29,
+        "slug": "dash",
+        "symbol": "DASH",
+        "total_supply": 9896515.65841415
+    },
+    {
+        "circulating_supply": 85061485689.83401,
+        "id": 2135,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "Revain",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 991418500.017666,
+                "percent_change_1h": 0.10410807,
+                "percent_change_24h": 0.22242051,
+                "percent_change_7d": 0.15120534,
+                "price": 0.01165531605729,
+                "volume_24h": 7526325.47670751
+            }
+        },
+        "rank": 30,
+        "slug": "revain",
+        "symbol": "REV",
+        "total_supply": 85061485689.83401
+    },
+    {
+        "circulating_supply": 12029158.54460012,
+        "id": 7278,
+        "last_updated": "2020-12-30T23:20:04.000Z",
+        "max_supply": 16000000,
+        "name": "Aave",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:04.000Z",
+                "market_cap": 969492940.0772719,
+                "percent_change_1h": -1.63967533,
+                "percent_change_24h": 4.66698575,
+                "percent_change_7d": 19.09402404,
+                "price": 80.59524167735545,
+                "volume_24h": 202852817.7864181
+            }
+        },
+        "rank": 31,
+        "slug": "aave",
+        "symbol": "AAVE",
+        "total_supply": 16000000
+    },
+    {
+        "circulating_supply": 44584205,
+        "id": 2280,
+        "last_updated": "2020-12-30T23:20:04.000Z",
+        "max_supply": 2000000000,
+        "name": "Filecoin",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:04.000Z",
+                "market_cap": 938773157.556793,
+                "percent_change_1h": -1.05970011,
+                "percent_change_24h": 4.53779877,
+                "percent_change_7d": -4.11617306,
+                "price": 21.05618251030366,
+                "volume_24h": 224379690.60181057
+            }
+        },
+        "rank": 32,
+        "slug": "filecoin",
+        "symbol": "FIL",
+        "total_supply": 44584205
+    },
+    {
+        "circulating_supply": 895594183.67,
+        "id": 4687,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "Binance USD",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 895862861.9251009,
+                "percent_change_1h": 0.009998,
+                "percent_change_24h": -0.009996,
+                "percent_change_7d": 0.040004,
+                "price": 1.0003,
+                "volume_24h": 1409001713.9849346
+            }
+        },
+        "rank": 33,
+        "slug": "binance-usd",
+        "symbol": "BUSD",
+        "total_supply": 895594183.67
+    },
+    {
+        "circulating_supply": 200076194.2544121,
+        "id": 2502,
+        "last_updated": "2020-12-30T23:20:07.000Z",
+        "max_supply": null,
+        "name": "Huobi Token",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:07.000Z",
+                "market_cap": 865616348.6174257,
+                "percent_change_1h": 0.20729742,
+                "percent_change_24h": -0.64408421,
+                "percent_change_7d": 9.33709293,
+                "price": 4.32643349621459,
+                "volume_24h": 95813245.80068238
+            }
+        },
+        "rank": 34,
+        "slug": "huobi-token",
+        "symbol": "HT",
+        "total_supply": 500000000
+    },
+    {
+        "circulating_supply": 10796248168.659273,
+        "id": 2469,
+        "last_updated": "2020-12-30T23:20:06.000Z",
+        "max_supply": 21000000000,
+        "name": "Zilliqa",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:06.000Z",
+                "market_cap": 851558762.6227823,
+                "percent_change_1h": 1.56334855,
+                "percent_change_24h": 0.01287702,
+                "percent_change_7d": 44.15576197,
+                "price": 0.07887543425454,
+                "volume_24h": 438645753.8278782
+            }
+        },
+        "rank": 35,
+        "slug": "zilliqa",
+        "symbol": "ZIL",
+        "total_supply": 14087715321.659273
+    },
+    {
+        "circulating_supply": 2779530283,
+        "id": 1720,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": 2779530283,
+        "name": "IOTA",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 814873063.2545168,
+                "percent_change_1h": -0.82885806,
+                "percent_change_24h": -1.15499406,
+                "percent_change_7d": 12.56545688,
+                "price": 0.2931693416828,
+                "volume_24h": 15830823.25501611
+            }
+        },
+        "rank": 36,
+        "slug": "iota",
+        "symbol": "MIOTA",
+        "total_supply": 2779530283
+    },
+    {
+        "circulating_supply": 110519344.85591938,
+        "id": 2586,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Synthetix",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 804603169.513625,
+                "percent_change_1h": -1.07817174,
+                "percent_change_24h": -4.75163123,
+                "percent_change_7d": 5.7486147,
+                "price": 7.28020212717114,
+                "volume_24h": 95762637.93097058
+            }
+        },
+        "rank": 37,
+        "slug": "synthetix-network-token",
+        "symbol": "SNX",
+        "total_supply": 211692890.57050416
+    },
+    {
+        "circulating_supply": 4412545.80947719,
+        "id": 5692,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "Compound",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 694750154.9736527,
+                "percent_change_1h": 2.79345271,
+                "percent_change_24h": 14.27216733,
+                "percent_change_7d": 22.83566881,
+                "price": 157.44882545615286,
+                "volume_24h": 185014643.81911775
+            }
+        },
+        "rank": 38,
+        "slug": "compound",
+        "symbol": "COMP",
+        "total_supply": 10000000
+    },
+    {
+        "circulating_supply": 10803562.5,
+        "id": 1437,
+        "last_updated": "2020-12-30T23:20:06.000Z",
+        "max_supply": 21000000,
+        "name": "Zcash",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:06.000Z",
+                "market_cap": 692582940.2018455,
+                "percent_change_1h": -0.41612765,
+                "percent_change_24h": -1.54316907,
+                "percent_change_7d": 6.71119973,
+                "price": 64.10690364422342,
+                "volume_24h": 362486411.70909095
+            }
+        },
+        "rank": 39,
+        "slug": "zcash",
+        "symbol": "ZEC",
+        "total_supply": 10803562.5
+    },
+    {
+        "circulating_supply": 103934758,
+        "id": 1274,
+        "last_updated": "2020-12-30T23:20:04.000Z",
+        "max_supply": null,
+        "name": "Waves",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:04.000Z",
+                "market_cap": 685160922.9516218,
+                "percent_change_1h": -0.97278145,
+                "percent_change_24h": -4.91827319,
+                "percent_change_7d": 11.25115915,
+                "price": 6.59222127550075,
+                "volume_24h": 93343924.51040494
+            }
+        },
+        "rank": 40,
+        "slug": "waves",
+        "symbol": "WAVES",
+        "total_supply": 103934758
+    },
+    {
+        "circulating_supply": 116313299,
+        "id": 1321,
+        "last_updated": "2020-12-30T23:20:06.000Z",
+        "max_supply": 210700000,
+        "name": "Ethereum Classic",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:06.000Z",
+                "market_cap": 657314216.9961047,
+                "percent_change_1h": -0.63065654,
+                "percent_change_24h": -0.45612554,
+                "percent_change_7d": 10.16929655,
+                "price": 5.65123870311773,
+                "volume_24h": 915394894.1671925
+            }
+        },
+        "rank": 41,
+        "slug": "ethereum-classic",
+        "symbol": "ETC",
+        "total_supply": 116313299
+    },
+    {
+        "circulating_supply": 29968.65685125,
+        "id": 5864,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": 30000,
+        "name": "yearn.finance",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 655594816.8704201,
+                "percent_change_1h": -0.54857856,
+                "percent_change_24h": -0.50264123,
+                "percent_change_7d": 3.75303363,
+                "price": 21876.016003135457,
+                "volume_24h": 287094580.2323621
+            }
+        },
+        "rank": 42,
+        "slug": "yearn-finance",
+        "symbol": "YFI",
+        "total_supply": 30000
+    },
+    {
+        "circulating_supply": 127734381117.52484,
+        "id": 74,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "Dogecoin",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 587565495.7376916,
+                "percent_change_1h": -1.21698038,
+                "percent_change_24h": 3.45071912,
+                "percent_change_7d": 23.56481596,
+                "price": 0.00459990090841,
+                "volume_24h": 94500684.4427696
+            }
+        },
+        "rank": 43,
+        "slug": "dogecoin",
+        "symbol": "DOGE",
+        "total_supply": 127734381117.52484
+    },
+    {
+        "circulating_supply": 997314.20033993,
+        "id": 1518,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Maker",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 571906024.456273,
+                "percent_change_1h": 0.10797565,
+                "percent_change_24h": 1.43130412,
+                "percent_change_7d": 12.81987527,
+                "price": 573.4461860277747,
+                "volume_24h": 40198330.2054226
+            }
+        },
+        "rank": 44,
+        "slug": "maker",
+        "symbol": "MKR",
+        "total_supply": 997314.20033993
+    },
+    {
+        "circulating_supply": 94346957.5237492,
+        "id": 4195,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "FTX Token",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 542343047.934193,
+                "percent_change_1h": -0.24371508,
+                "percent_change_24h": 3.87512017,
+                "percent_change_7d": 22.58618855,
+                "price": 5.74838937225584,
+                "volume_24h": 11332555.02458373
+            }
+        },
+        "rank": 45,
+        "slug": "ftx-token",
+        "symbol": "FTT",
+        "total_supply": 345219293.59097695
+    },
+    {
+        "circulating_supply": 8470098.05726206,
+        "id": 5034,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "Kusama",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 525963838.4641874,
+                "percent_change_1h": -0.37740812,
+                "percent_change_24h": 2.35563554,
+                "percent_change_7d": 34.40988901,
+                "price": 62.09654656987573,
+                "volume_24h": 109855577.06811465
+            }
+        },
+        "rank": 46,
+        "slug": "kusama",
+        "symbol": "KSM",
+        "total_supply": 9651217.45126206
+    },
+    {
+        "circulating_supply": 12427990.39222821,
+        "id": 1168,
+        "last_updated": "2020-12-30T23:20:04.000Z",
+        "max_supply": 21000000,
+        "name": "Decred",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:04.000Z",
+                "market_cap": 502864359.3958501,
+                "percent_change_1h": 3.15703701,
+                "percent_change_24h": 6.59882681,
+                "percent_change_7d": 28.96820912,
+                "price": 40.46224236786618,
+                "volume_24h": 16196517.37330773
+            }
+        },
+        "rank": 47,
+        "slug": "decred",
+        "symbol": "DCR",
+        "total_supply": 12427990.39222821
+    },
+    {
+        "circulating_supply": 176757737.61292624,
+        "id": 6758,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": 0,
+        "name": "SushiSwap",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 462517064.83226305,
+                "percent_change_1h": -3.32000042,
+                "percent_change_24h": 3.15322964,
+                "percent_change_7d": 32.4744666,
+                "price": 2.61667223782366,
+                "volume_24h": 206568809.976752
+            }
+        },
+        "rank": 48,
+        "slug": "sushiswap",
+        "symbol": "SUSHI",
+        "total_supply": 176757737.61292624
+    },
+    {
+        "circulating_supply": 1245666867,
+        "id": 6719,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": 10000000000,
+        "name": "The Graph",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 461966192.4237445,
+                "percent_change_1h": 0.11692878,
+                "percent_change_24h": 2.92358232,
+                "percent_change_7d": -1.25321563,
+                "price": 0.3708585374325,
+                "volume_24h": 199003166.0827847
+            }
+        },
+        "rank": 49,
+        "slug": "the-graph",
+        "symbol": "GRT",
+        "total_supply": 0
+    },
+    {
+        "circulating_supply": 60000000,
+        "id": 3897,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "OKB",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 456921540.1606326,
+                "percent_change_1h": -0.7988409,
+                "percent_change_24h": 1.70683039,
+                "percent_change_7d": 27.08764424,
+                "price": 7.61535900267721,
+                "volume_24h": 151738530.23340678
+            }
+        },
+        "rank": 50,
+        "slug": "okb",
+        "symbol": "OKB",
+        "total_supply": 300000000
+    },
+    {
+        "circulating_supply": 55506670.91264081,
+        "id": 5617,
+        "last_updated": "2020-12-30T23:20:07.000Z",
+        "max_supply": null,
+        "name": "UMA",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:07.000Z",
+                "market_cap": 435022494.6131946,
+                "percent_change_1h": -0.83080078,
+                "percent_change_24h": -1.27351054,
+                "percent_change_7d": -0.5808114,
+                "price": 7.83730112904546,
+                "volume_24h": 9354559.29693539
+            }
+        },
+        "rank": 51,
+        "slug": "uma",
+        "symbol": "UMA",
+        "total_supply": 101131301.79860722
+    },
+    {
+        "circulating_supply": 1190690236.079295,
+        "id": 4030,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "Algorand",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 398127111.2012479,
+                "percent_change_1h": -0.52633035,
+                "percent_change_24h": -2.82825872,
+                "percent_change_7d": 14.37534618,
+                "price": 0.33436665485072,
+                "volume_24h": 77154809.8586625
+            }
+        },
+        "rank": 52,
+        "slug": "algorand",
+        "symbol": "ALGO",
+        "total_supply": 10000000000
+    },
+    {
+        "circulating_supply": 13323.20501992,
+        "id": 5777,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "renBTC",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 382159884.24085677,
+                "percent_change_1h": -0.24328446,
+                "percent_change_24h": 6.24779791,
+                "percent_change_7d": 24.93758784,
+                "price": 28683.78019173884,
+                "volume_24h": 13854730.76053496
+            }
+        },
+        "rank": 53,
+        "slug": "renbtc",
+        "symbol": "RENBTC",
+        "total_supply": 13323.20501992
+    },
+    {
+        "circulating_supply": 804535798,
+        "id": 2566,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Ontology",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 358858912.5515087,
+                "percent_change_1h": -0.48885685,
+                "percent_change_24h": -0.10198388,
+                "percent_change_7d": 3.54324982,
+                "price": 0.44604467998018,
+                "volume_24h": 88687169.00823751
+            }
+        },
+        "rank": 54,
+        "slug": "ontology",
+        "symbol": "ONT",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 13892911638.164152,
+        "id": 109,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": 21000000000,
+        "name": "DigiByte",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 352231958.95318145,
+                "percent_change_1h": -2.75668571,
+                "percent_change_24h": 0.70268085,
+                "percent_change_7d": 32.11883657,
+                "price": 0.02535335775012,
+                "volume_24h": 22924023.08997466
+            }
+        },
+        "rank": 55,
+        "slug": "digibyte",
+        "symbol": "DGB",
+        "total_supply": 13892911638.164152
+    },
+    {
+        "circulating_supply": 14684150.48373332,
+        "id": 6892,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": 31415926,
+        "name": "Elrond",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 354589887.7287098,
+                "percent_change_1h": -0.77129265,
+                "percent_change_24h": 1.0614604,
+                "percent_change_7d": 16.12693661,
+                "price": 24.14779718591922,
+                "volume_24h": 27590889.42561234
+            }
+        },
+        "rank": 56,
+        "slug": "elrond-egld",
+        "symbol": "EGLD",
+        "total_supply": 20914142
+    },
+    {
+        "circulating_supply": 140245398.24513277,
+        "id": 1808,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "OMG Network",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 341278349.02332795,
+                "percent_change_1h": -0.51131879,
+                "percent_change_24h": -2.41494196,
+                "percent_change_7d": 5.33362234,
+                "price": 2.43343705600103,
+                "volume_24h": 137357169.73643073
+            }
+        },
+        "rank": 57,
+        "slug": "omg",
+        "symbol": "OMG",
+        "total_supply": 140245398.24513277
+    },
+    {
+        "circulating_supply": 485457016.836946,
+        "id": 4172,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "Terra",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 323791735.16147447,
+                "percent_change_1h": -1.08632476,
+                "percent_change_24h": 5.6806049,
+                "percent_change_7d": 44.59359862,
+                "price": 0.6669833248496,
+                "volume_24h": 36360087.31781914
+            }
+        },
+        "rank": 58,
+        "slug": "terra-luna",
+        "symbol": "LUNA",
+        "total_supply": 994983808.003609
+    },
+    {
+        "circulating_supply": 1492579369.4324162,
+        "id": 1697,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Basic Attention Token",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 303733697.3069912,
+                "percent_change_1h": -0.1464375,
+                "percent_change_24h": 0.54233576,
+                "percent_change_7d": 4.97006312,
+                "price": 0.20349584318755,
+                "volume_24h": 128474627.44142881
+            }
+        },
+        "rank": 59,
+        "slug": "basic-attention-token",
+        "symbol": "BAT",
+        "total_supply": 1500000000
+    },
+    {
+        "circulating_supply": 560000011,
+        "id": 2694,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "Nexo",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 299175290.9741294,
+                "percent_change_1h": -3.02016135,
+                "percent_change_24h": -7.97880551,
+                "percent_change_7d": -6.6857227,
+                "price": 0.5342415805312,
+                "volume_24h": 11145228.15295523
+            }
+        },
+        "rank": 60,
+        "slug": "nexo",
+        "symbol": "NEXO",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 989982367036.542,
+        "id": 3718,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "BitTorrent",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 290394718.089504,
+                "percent_change_1h": -0.01561377,
+                "percent_change_24h": 1.79248155,
+                "percent_change_7d": 4.30894106,
+                "price": 0.00029333322265,
+                "volume_24h": 74624532.34995303
+            }
+        },
+        "rank": 61,
+        "slug": "bittorrent",
+        "symbol": "BTT",
+        "total_supply": 990000000000
+    },
+    {
+        "circulating_supply": 884532524.8008337,
+        "id": 2539,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Ren",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 284062484.1662694,
+                "percent_change_1h": -1.60583614,
+                "percent_change_24h": -11.79558307,
+                "percent_change_7d": 30.19954613,
+                "price": 0.32114419334691,
+                "volume_24h": 103285886.66273423
+            }
+        },
+        "rank": 62,
+        "slug": "ren",
+        "symbol": "REN",
+        "total_supply": 999999632.80375
+    },
+    {
+        "circulating_supply": 711834031.950991,
+        "id": 4847,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": 1818000000,
+        "name": "Blockstack",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 282569008.08577067,
+                "percent_change_1h": 1.9281981,
+                "percent_change_24h": 0.47398641,
+                "percent_change_7d": 51.78064151,
+                "price": 0.39695911603342,
+                "volume_24h": 3391039.06796731
+            }
+        },
+        "rank": 63,
+        "slug": "blockstack",
+        "symbol": "STX",
+        "total_supply": 945757397.950991
+    },
+    {
+        "circulating_supply": 579280520.0412292,
+        "id": 2099,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "ICON",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 274443946.0385276,
+                "percent_change_1h": -0.70354205,
+                "percent_change_24h": 6.67478628,
+                "percent_change_7d": 40.86490272,
+                "price": 0.47376691696623,
+                "volume_24h": 59702769.7707356
+            }
+        },
+        "rank": 64,
+        "slug": "icon",
+        "symbol": "ICX",
+        "total_supply": 800460000
+    },
+    {
+        "circulating_supply": 275031536.94,
+        "id": 2563,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "TrueUSD",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 275020400.14063495,
+                "percent_change_1h": -0.01884986,
+                "percent_change_24h": 0.047336,
+                "percent_change_7d": 0.12501389,
+                "price": 0.99995950719147,
+                "volume_24h": 102494627.13678521
+            }
+        },
+        "rank": 65,
+        "slug": "trueusd",
+        "symbol": "TUSD",
+        "total_supply": 275031536.94
+    },
+    {
+        "circulating_supply": 749772093.9255235,
+        "id": 1896,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "0x",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 268307168.98822257,
+                "percent_change_1h": 0.37929601,
+                "percent_change_24h": -0.51251028,
+                "percent_change_7d": 8.45086478,
+                "price": 0.35785163406585,
+                "volume_24h": 39730915.82913163
+            }
+        },
+        "rank": 66,
+        "slug": "0x",
+        "symbol": "ZRX",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 932687844.814276,
+        "id": 2499,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "SwissBorg",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 250848554.55383742,
+                "percent_change_1h": -0.83563389,
+                "percent_change_24h": -10.14232144,
+                "percent_change_7d": 2.90738387,
+                "price": 0.26895231448394,
+                "volume_24h": 4294377.22721665
+            }
+        },
+        "rank": 67,
+        "slug": "swissborg",
+        "symbol": "CHSB",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 244951954.49426377,
+        "id": 3330,
+        "last_updated": "2020-12-30T23:20:05.000Z",
+        "max_supply": null,
+        "name": "Paxos Standard",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:05.000Z",
+                "market_cap": 245075055.55076465,
+                "percent_change_1h": -0.21082197,
+                "percent_change_24h": -0.1617719,
+                "percent_change_7d": 0.29304103,
+                "price": 1.00050255184432,
+                "volume_24h": 139797304.4026513
+            }
+        },
+        "rank": 68,
+        "slug": "paxos-standard",
+        "symbol": "PAX",
+        "total_supply": 249952064.83
+    },
+    {
+        "circulating_supply": 196911019,
+        "id": 6535,
+        "last_updated": "2020-12-30T23:20:06.000Z",
+        "max_supply": null,
+        "name": "NEAR Protocol",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:06.000Z",
+                "market_cap": 237427533.26370913,
+                "percent_change_1h": -0.76856519,
+                "percent_change_24h": 7.02067268,
+                "percent_change_7d": 27.27322668,
+                "price": 1.2057605230498,
+                "volume_24h": 13598724.06492938
+            }
+        },
+        "rank": 69,
+        "slug": "near-protocol",
+        "symbol": "NEAR",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 214830037.2138273,
+        "id": 4056,
+        "last_updated": "2020-12-30T23:19:08.000Z",
+        "max_supply": null,
+        "name": "Ampleforth",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:08.000Z",
+                "market_cap": 224701274.4486068,
+                "percent_change_1h": -3.48006452,
+                "percent_change_24h": 8.34186298,
+                "percent_change_7d": 26.61616271,
+                "price": 1.04594905518242,
+                "volume_24h": 18744883.34332984
+            }
+        },
+        "rank": 70,
+        "slug": "ampleforth",
+        "symbol": "AMPL",
+        "total_supply": 365989145.4606369
+    },
+    {
+        "circulating_supply": 76937055.27646953,
+        "id": 5805,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": 720000000,
+        "name": "Avalanche",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 224508930.53227997,
+                "percent_change_1h": -0.2962197,
+                "percent_change_24h": 1.75731454,
+                "percent_change_7d": 1.39456414,
+                "price": 2.91808582646578,
+                "volume_24h": 17228037.56227719
+            }
+        },
+        "rank": 71,
+        "slug": "avalanche",
+        "symbol": "AVAX",
+        "total_supply": 360000000
+    },
+    {
+        "circulating_supply": 842793620.5267404,
+        "id": 3437,
+        "last_updated": "2020-12-30T23:20:06.000Z",
+        "max_supply": 1500000000,
+        "name": "ABBC Coin",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:06.000Z",
+                "market_cap": 220116819.96245912,
+                "percent_change_1h": -2.19186332,
+                "percent_change_24h": 35.21114453,
+                "percent_change_7d": 19.49032515,
+                "price": 0.26117523270393,
+                "volume_24h": 41030758.99276485
+            }
+        },
+        "rank": 72,
+        "slug": "abbc-coin",
+        "symbol": "ABBC",
+        "total_supply": 1500000000
+    },
+    {
+        "circulating_supply": 97515723.6605668,
+        "id": 1684,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": 107822406,
+        "name": "Qtum",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 217033558.63729253,
+                "percent_change_1h": 0.31816725,
+                "percent_change_24h": -1.73631063,
+                "percent_change_7d": 6.26947561,
+                "price": 2.22562629379385,
+                "volume_24h": 327442536.6510022
+            }
+        },
+        "rank": 73,
+        "slug": "qtum",
+        "symbol": "QTUM",
+        "total_supply": 103035144
+    },
+    {
+        "circulating_supply": 6603011778,
+        "id": 4642,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Hedera Hashgraph",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 215855177.60430294,
+                "percent_change_1h": 0.75475833,
+                "percent_change_24h": 0.87112219,
+                "percent_change_7d": 6.50216963,
+                "price": 0.03269041232419,
+                "volume_24h": 9927491.52743386
+            }
+        },
+        "rank": 74,
+        "slug": "hedera-hashgraph",
+        "symbol": "HBAR",
+        "total_supply": 50000000000
+    },
+    {
+        "circulating_supply": 1202201433.2254372,
+        "id": 1934,
+        "last_updated": "2020-12-30T23:19:09.000Z",
+        "max_supply": null,
+        "name": "Loopring",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:09.000Z",
+                "market_cap": 214540446.35993505,
+                "percent_change_1h": -2.77832902,
+                "percent_change_24h": -3.48200359,
+                "percent_change_7d": 27.60126625,
+                "price": 0.17845632223573,
+                "volume_24h": 42492170.89725597
+            }
+        },
+        "rank": 75,
+        "slug": "loopring",
+        "symbol": "LRC",
+        "total_supply": 1374513861.4692945
+    },
+    {
+        "circulating_supply": 124447717,
+        "id": 5567,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": 1000000000,
+        "name": "Celo",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 189983928.5439619,
+                "percent_change_1h": -0.56363313,
+                "percent_change_24h": 1.55170341,
+                "percent_change_7d": 8.6686645,
+                "price": 1.52661642273407,
+                "volume_24h": 1542302.07717617
+            }
+        },
+        "rank": 76,
+        "slug": "celo",
+        "symbol": "CELO",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 158432088.34333336,
+        "id": 4157,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "THORChain",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 188348273.50788036,
+                "percent_change_1h": -0.82601087,
+                "percent_change_24h": 3.03623047,
+                "percent_change_7d": 41.07958592,
+                "price": 1.18882655324038,
+                "volume_24h": 26704221.8164651
+            }
+        },
+        "rank": 77,
+        "slug": "thorchain",
+        "symbol": "RUNE",
+        "total_supply": 500000000
+    },
+    {
+        "circulating_supply": 30062138,
+        "id": 5268,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": 100000000,
+        "name": "Energy Web Token",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 186452744.7370607,
+                "percent_change_1h": 0.55865675,
+                "percent_change_24h": -1.38079257,
+                "percent_change_7d": -4.41998765,
+                "price": 6.20224498793335,
+                "volume_24h": 930287.70995138
+            }
+        },
+        "rank": 78,
+        "slug": "energy-web-token",
+        "symbol": "EWT",
+        "total_supply": 48638535.4433
+    },
+    {
+        "circulating_supply": 9349998999.99994,
+        "id": 3964,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "Reserve Rights",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 181193148.12308946,
+                "percent_change_1h": -3.85101766,
+                "percent_change_24h": 1.4883336,
+                "percent_change_7d": 17.24951746,
+                "price": 0.01937894839594,
+                "volume_24h": 86781212.9628637
+            }
+        },
+        "rank": 79,
+        "slug": "reserve-rights",
+        "symbol": "RSR",
+        "total_supply": 100000000000
+    },
+    {
+        "circulating_supply": 11000000,
+        "id": 1104,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "Augur",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 181728099.89594436,
+                "percent_change_1h": -0.05664815,
+                "percent_change_24h": -4.3915125,
+                "percent_change_7d": 14.73955957,
+                "price": 16.52073635417676,
+                "volume_24h": 15192274.7204702
+            }
+        },
+        "rank": 80,
+        "slug": "augur",
+        "symbol": "REP",
+        "total_supply": 11000000
+    },
+    {
+        "circulating_supply": 339231468.3751734,
+        "id": 3662,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": null,
+        "name": "HedgeTrade",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 160484852.76483458,
+                "percent_change_1h": -2.21766279,
+                "percent_change_24h": 3.60743232,
+                "percent_change_7d": 5.94725366,
+                "price": 0.47308362497593,
+                "volume_24h": 321306.41740057
+            }
+        },
+        "rank": 81,
+        "slug": "hedgetrade",
+        "symbol": "HEDG",
+        "total_supply": 1000000000
+    },
+    {
+        "circulating_supply": 200846928.69361803,
+        "id": 1982,
+        "last_updated": "2020-12-30T23:19:09.000Z",
+        "max_supply": null,
+        "name": "Kyber Network",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:09.000Z",
+                "market_cap": 160821073.80318022,
+                "percent_change_1h": -0.77545109,
+                "percent_change_24h": -2.39164658,
+                "percent_change_7d": 6.63271087,
+                "price": 0.80071462804644,
+                "volume_24h": 23367376.46361618
+            }
+        },
+        "rank": 82,
+        "slug": "kyber-network",
+        "symbol": "KNC",
+        "total_supply": 210329780.41248214
+    },
+    {
+        "circulating_supply": 181035937.660609,
+        "id": 7129,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": 0,
+        "name": "TerraUSD",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 154679609.8661204,
+                "percent_change_1h": 1.42381222,
+                "percent_change_24h": -13.99012793,
+                "percent_change_7d": -14.39071404,
+                "price": 0.85441383553414,
+                "volume_24h": 1437006.09924796
+            }
+        },
+        "rank": 83,
+        "slug": "terrausd",
+        "symbol": "UST",
+        "total_supply": 181035937.660609
+    },
+    {
+        "circulating_supply": 45239032992,
+        "id": 1042,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "Siacoin",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 153856661.32198274,
+                "percent_change_1h": 0.23260747,
+                "percent_change_24h": 7.93313816,
+                "percent_change_7d": 17.4520012,
+                "price": 0.00340097148737,
+                "volume_24h": 12795090.53909967
+            }
+        },
+        "rank": 84,
+        "slug": "siacoin",
+        "symbol": "SC",
+        "total_supply": 45239032992
+    },
+    {
+        "circulating_supply": 17513923.589,
+        "id": 2083,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": 21000000,
+        "name": "Bitcoin Gold",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 149342640.73829374,
+                "percent_change_1h": 0.16214453,
+                "percent_change_24h": 1.8757456,
+                "percent_change_7d": 10.059334,
+                "price": 8.52708075260141,
+                "volume_24h": 8952424.08780474
+            }
+        },
+        "rank": 85,
+        "slug": "bitcoin-gold",
+        "symbol": "BTG",
+        "total_supply": 17513923.589
+    },
+    {
+        "circulating_supply": 126800776.2690566,
+        "id": 1214,
+        "last_updated": "2020-12-30T23:20:04.000Z",
+        "max_supply": null,
+        "name": "Lisk",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:04.000Z",
+                "market_cap": 145501172.9731534,
+                "percent_change_1h": -0.55244755,
+                "percent_change_24h": -0.29469386,
+                "percent_change_7d": 1.93700952,
+                "price": 1.14747856641206,
+                "volume_24h": 2664792.13296958
+            }
+        },
+        "rank": 86,
+        "slug": "lisk",
+        "symbol": "LSK",
+        "total_supply": 142810065
+    },
+    {
+        "circulating_supply": 133248297.197,
+        "id": 1567,
+        "last_updated": "2020-12-30T23:19:05.000Z",
+        "max_supply": 133248297,
+        "name": "Nano",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:05.000Z",
+                "market_cap": 141756927.05057636,
+                "percent_change_1h": -0.42117032,
+                "percent_change_24h": -0.22307938,
+                "percent_change_7d": 11.4724286,
+                "price": 1.06385544905686,
+                "volume_24h": 5647831.2656367
+            }
+        },
+        "rank": 87,
+        "slug": "nano",
+        "symbol": "NANO",
+        "total_supply": 133248297.197
+    },
+    {
+        "circulating_supply": 5801350.10492685,
+        "id": 5830,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "NXM",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 139403533.0042909,
+                "percent_change_1h": -2.33186139,
+                "percent_change_24h": 8.44655076,
+                "percent_change_7d": 35.32586801,
+                "price": 24.02949838967677,
+                "volume_24h": 23952958.32332796
+            }
+        },
+        "rank": 88,
+        "slug": "nxm",
+        "symbol": "NXM",
+        "total_supply": 6707046.89776088
+    },
+    {
+        "circulating_supply": 4962631792,
+        "id": 3822,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "Theta Fuel",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 139864167.3937107,
+                "percent_change_1h": -1.95951933,
+                "percent_change_24h": 4.16377125,
+                "percent_change_7d": 50.13581219,
+                "price": 0.02818346660721,
+                "volume_24h": 11570746.41000723
+            }
+        },
+        "rank": 89,
+        "slug": "theta-fuel",
+        "symbol": "TFUEL",
+        "total_supply": 5000000000
+    },
+    {
+        "circulating_supply": 12072738,
+        "id": 3155,
+        "last_updated": "2020-12-30T23:20:03.000Z",
+        "max_supply": null,
+        "name": "Quant",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:03.000Z",
+                "market_cap": 137400606.76500827,
+                "percent_change_1h": -1.45897992,
+                "percent_change_24h": -4.36033191,
+                "percent_change_7d": 7.14720525,
+                "price": 11.3810642428427,
+                "volume_24h": 3098341.99385062
+            }
+        },
+        "rank": 90,
+        "slug": "quant",
+        "symbol": "QNT",
+        "total_supply": 14612493.08082618
+    },
+    {
+        "circulating_supply": 419026836.7678136,
+        "id": 3911,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": 1410000000,
+        "name": "Ocean Protocol",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 136063541.6738938,
+                "percent_change_1h": 0.10326177,
+                "percent_change_24h": -1.62209607,
+                "percent_change_7d": 6.08288416,
+                "price": 0.32471319193641,
+                "volume_24h": 12204928.976525
+            }
+        },
+        "rank": 91,
+        "slug": "ocean-protocol",
+        "symbol": "OCEAN",
+        "total_supply": 613099141
+    },
+    {
+        "circulating_supply": 452552412,
+        "id": 291,
+        "last_updated": "2020-12-30T23:20:05.000Z",
+        "max_supply": null,
+        "name": "MaidSafeCoin",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:05.000Z",
+                "market_cap": 135299005.95185843,
+                "percent_change_1h": -0.61593233,
+                "percent_change_24h": -2.6375042,
+                "percent_change_7d": -1.29435211,
+                "price": 0.29896869923623,
+                "volume_24h": 555809.41344197
+            }
+        },
+        "rank": 92,
+        "slug": "maidsafecoin",
+        "symbol": "MAID",
+        "total_supply": 452552412
+    },
+    {
+        "circulating_supply": 16411490543.363379,
+        "id": 693,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": 16555000000,
+        "name": "Verge",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 128446984.83873408,
+                "percent_change_1h": 0.16853789,
+                "percent_change_24h": 5.76649426,
+                "percent_change_7d": 26.07267203,
+                "price": 0.00782664953554,
+                "volume_24h": 3275310.46077604
+            }
+        },
+        "rank": 93,
+        "slug": "verge",
+        "symbol": "XVG",
+        "total_supply": 16411490543.363379
+    },
+    {
+        "circulating_supply": 127203267.8742443,
+        "id": 4779,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "HUSD",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 127125356.26232292,
+                "percent_change_1h": 0.03313517,
+                "percent_change_24h": -0.10146749,
+                "percent_change_7d": -0.48364617,
+                "price": 0.99938750306322,
+                "volume_24h": 63871062.74131528
+            }
+        },
+        "rank": 94,
+        "slug": "husd",
+        "symbol": "HUSD",
+        "total_supply": 127203267.8742443
+    },
+    {
+        "circulating_supply": 1060404495.6499999,
+        "id": 2642,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "CyberVein",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 125706099.21308465,
+                "percent_change_1h": -0.55302629,
+                "percent_change_24h": -0.56159013,
+                "percent_change_7d": 7.70239646,
+                "price": 0.11854542274081,
+                "volume_24h": 6112834.98551451
+            }
+        },
+        "rank": 95,
+        "slug": "cybervein",
+        "symbol": "CVT",
+        "total_supply": 2147483648
+    },
+    {
+        "circulating_supply": 96107502.14375253,
+        "id": 1727,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Bancor",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 126077935.95694257,
+                "percent_change_1h": -0.34860402,
+                "percent_change_24h": -0.9850575,
+                "percent_change_7d": 12.46123701,
+                "price": 1.31184281294047,
+                "volume_24h": 23692724.39739496
+            }
+        },
+        "rank": 96,
+        "slug": "bancor",
+        "symbol": "BNT",
+        "total_supply": 96107502.14375253
+    },
+    {
+        "circulating_supply": 5429628748.660311,
+        "id": 4066,
+        "last_updated": "2020-12-30T23:19:08.000Z",
+        "max_supply": null,
+        "name": "Chiliz",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:08.000Z",
+                "market_cap": 123390478.0282639,
+                "percent_change_1h": -1.22993144,
+                "percent_change_24h": -20.33662886,
+                "percent_change_7d": 24.74839616,
+                "price": 0.02272539868563,
+                "volume_24h": 123320647.66181079
+            }
+        },
+        "rank": 97,
+        "slug": "chiliz",
+        "symbol": "CHZ",
+        "total_supply": 8888888888
+    },
+    {
+        "circulating_supply": 39609522.80952381,
+        "id": 1680,
+        "last_updated": "2020-12-30T23:19:07.000Z",
+        "max_supply": null,
+        "name": "Aragon",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:07.000Z",
+                "market_cap": 119460906.14528482,
+                "percent_change_1h": 0.16706627,
+                "percent_change_24h": 2.59270602,
+                "percent_change_7d": 12.07159202,
+                "price": 3.01596428514815,
+                "volume_24h": 12180910.29947929
+            }
+        },
+        "rank": 98,
+        "slug": "aragon",
+        "symbol": "ANT",
+        "total_supply": 39609523.80952381
+    },
+    {
+        "circulating_supply": 463288810,
+        "id": 3351,
+        "last_updated": "2020-12-30T23:20:05.000Z",
+        "max_supply": null,
+        "name": "ZB Token",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:20:05.000Z",
+                "market_cap": 117617832.34304304,
+                "percent_change_1h": -0.08588294,
+                "percent_change_24h": -0.27593562,
+                "percent_change_7d": -0.25265172,
+                "price": 0.25387583253531,
+                "volume_24h": 9319738.59739391
+            }
+        },
+        "rank": 99,
+        "slug": "zb-token",
+        "symbol": "ZB",
+        "total_supply": 2100000000
+    },
+    {
+        "circulating_supply": 1504589,
+        "id": 1659,
+        "last_updated": "2020-12-30T23:19:06.000Z",
+        "max_supply": null,
+        "name": "Gnosis",
+        "quote": {
+            "USD": {
+                "last_updated": "2020-12-30T23:19:06.000Z",
+                "market_cap": 115900962.1015193,
+                "percent_change_1h": -1.02356781,
+                "percent_change_24h": 4.75852033,
+                "percent_change_7d": 24.40269542,
+                "price": 77.0316425957649,
+                "volume_24h": 360978.59344354
+            }
+        },
+        "rank": 100,
+        "slug": "gnosis-gno",
+        "symbol": "GNO",
+        "total_supply": 10000000
+    }
+]
